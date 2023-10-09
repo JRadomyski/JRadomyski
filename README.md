@@ -6,8 +6,6 @@ Frontend Developer
 
 * ✉️  You can contact me at [zakubrad@gmail.com](mailto:zakubrad@gmail.com)
 * 🚀  I'm currently working on [CMS system made in Angular - Inkocms (test-server below)](http://www.test.inko-cms.pl/blog)
-* 🧠  I'm learning the entire JVM with Spring on board 🤠
-
 
 ### Socials
 
