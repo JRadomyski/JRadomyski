@@ -1,9 +1,5 @@
-Hi 👋 My name is Jakub Radomyski
+Jakub Radomyski
 ================================
-
-Frontend Developer
-------------------
-
 * ✉️  You can contact me at [zakubrad@gmail.com](mailto:zakubrad@gmail.com)
 * 🚀  I'm currently working on [CMS system made in Angular - Inkocms (test-server below)](http://www.test.inko-cms.pl/blog)
 
